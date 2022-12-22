@@ -1,5 +1,5 @@
 # pfSense-pkg-DNSleaktest
-A DNS Leaktest package made for pfSense
+A DNS Leaktest package I made for pfSense
 
 ## Contributions:
 Contributions are welcome. Fork the repo, make your changes, create a diff file, and email the diff file and your GitHub username to luis@moraguez.com. If the changes are approved, you will be added as a contributor to the repo.
