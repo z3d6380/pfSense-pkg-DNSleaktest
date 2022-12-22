@@ -1,5 +1,9 @@
 # pfSense-pkg-DNSleaktest
-A DNS Leaktest package I made for pfSense
+A DNS Leaktest package I made for pfSense Project.
+
+## Action Items:
+- [x] Interface and support for bash.ws dns leak testing
+- [ ] Add support for other DNS Leak Testing APIs (dnsleaktest.com, etc)
 
 ## Contributions:
 Contributions are welcome. Fork the repo, make your changes, create a diff file, and email the diff file and your GitHub username to luis@moraguez.com. If the changes are approved, you will be added as a contributor to the repo.
