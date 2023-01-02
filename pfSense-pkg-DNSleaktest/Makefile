@@ -13,6 +13,9 @@ COMMENT=		pfSense package DNSleaktest
 
 LICENSE=		APACHE20
 
+USE_GITHUB=		yes
+GH_ACCOUNT=		z3d6380
+
 NO_BUILD=		yes
 NO_MTREE=		yes
 
