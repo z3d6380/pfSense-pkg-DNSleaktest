@@ -2,7 +2,7 @@
 A DNS Leaktest package I made for pfSense Project.
 
 ## Installation
-Currently I'm working on the processes of getting this package prepped to be submitted to and reviewed by the maintainers of the FreeBSD Project, so that it will be included in future releases. If it does get approved, you will be able to install this package through the pfSense Package Manager.
+Currently I'm working on the processes of getting this package prepped to be submitted to and reviewed by the maintainers of the pfSense Project, so that it will be included in future releases. If it does get approved, you will be able to install this package through the pfSense Package Manager.
 
 ## Interface and Usage
 
