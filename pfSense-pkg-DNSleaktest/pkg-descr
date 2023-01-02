@@ -1,3 +1,0 @@
-The DNSleaktest utility is used to test whether or not there is a dns leak on any outgoing interface.
-
-WWW: https://github.com/z3d6380/pfSense-pkg-DNSleaktest
