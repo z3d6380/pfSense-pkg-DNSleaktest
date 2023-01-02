@@ -1,15 +1,13 @@
-# $FreeBSD$
-
 PORTNAME=		pfSense-pkg-DNSleaktest
-PORTVERSION=	0.1.0
-PORTREVISION=	1
+PORTVERSION=		0.1.0
 CATEGORIES=		sysutils
-MASTER_SITES=	# empty
+MASTER_SITES=		# empty
 DISTFILES=		# empty
-EXTRACT_ONLY=	# empty
+EXTRACT_ONLY=		# empty
 
 MAINTAINER=		luis@moraguez.com
 COMMENT=		pfSense package DNSleaktest
+WWW=			https://github.com/z3d6380/pfSense-pkg-DNSleaktest
 
 LICENSE=		APACHE20
 
