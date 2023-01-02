@@ -6,8 +6,7 @@ DISTFILES=		# empty
 EXTRACT_ONLY=		# empty
 
 MAINTAINER=		luis@moraguez.com
-COMMENT=		pfSense package DNSleaktest
-WWW=			https://github.com/z3d6380/pfSense-pkg-DNSleaktest
+COMMENT=		DNSleaktest package for pfSense
 
 LICENSE=		APACHE20
 
