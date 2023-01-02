@@ -1,0 +1,1 @@
+The DNSleaktest utility is used to test whether or not there is a dns leak on any outgoing interface.
