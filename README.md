@@ -4,9 +4,6 @@ A DNS Leaktest package I made for pfSense Project.
 ## Installation
 Currently I'm working on the processes of getting this package prepped to be submitted to and reviewed by the maintainers of the FreeBSD Project, so that it will be included in future releases. If it does get approved, you will be able to install this package through the pfSense Package Manager.
 
-Bugzilla Report:
-https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=268705
-
 ## Interface and Usage
 
 ### GUI (Initial):
