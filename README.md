@@ -5,7 +5,7 @@ A DNS Leaktest package I made for pfSense Project.
 1. Download the `.pkg` file from the most recent <a href="https://github.com/z3d6380/pfSense-pkg-DNSleaktest/releases">release</a> to your pfSense box via `scp`
 2. Run the `pkg add pfSense-pkg-DNSleaktest-{x.x.x}.pkg` command via `ssh`.
 
-[Note:]
+**Note:**
 
 *Currently, this feature is not being considered by Netgate for addition into the pfSense package repo.*
 *More info on why it isn't currently being considered by Netgate:*
