@@ -2,13 +2,15 @@
 A DNS Leaktest package I made for pfSense Project.
 
 ## Installation
-Currently I'm working on the processes of getting this package prepped to be submitted to and reviewed by the maintainers of the pfSense Project, so that it will be included in future releases. If it does get approved, you will be able to install this package through the pfSense Package Manager.
+Currently, this feature is not being considered by Netgate for addition into the pfSense package repo, but I will provide installation instructions for those wishing to install from my repo.
+
+More info on why it isn't currently being considered by Netgate:
 
 Redmine:
-https://redmine.pfsense.org/issues/13821?issue_count=1&issue_position=1
+https://redmine.pfsense.org/issues/13821?issue_count=1&issue_position=1 [Rejected, Closed]
 
 PR:
-https://github.com/pfsense/FreeBSD-ports/pull/1211
+https://github.com/pfsense/FreeBSD-ports/pull/1211 [Rejected, Closed]
 
 ## Interface and Usage
 
@@ -29,6 +31,7 @@ https://github.com/pfsense/FreeBSD-ports/pull/1211
 
 ## Action Items:
 - [x] Interface and support for bash.ws dns leak testing
+- [ ] Validate/Sanitize/Escape User input
 - [ ] Add support for other DNS Leak Testing APIs (dnsleaktest.com, etc)
 
 ## Contributions:
