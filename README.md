@@ -2,17 +2,20 @@
 A DNS Leaktest package I made for pfSense Project.
 
 ## Installation
-Download the `.pkg` file from the most recent release to your pfSense box via `scp`, then run the `pkg add {package-file-name}.pkg` command via `ssh`.
+1. Download the `.pkg` file from the most recent <a href="https://github.com/z3d6380/pfSense-pkg-DNSleaktest/releases">release</a> to your pfSense box via `scp`
+2. Run the `pkg add pfSense-pkg-DNSleaktest-{x.x.x}.pkg` command via `ssh`.
 
-Currently, this feature is not being considered by Netgate for addition into the pfSense package repo.
+[Note:]
 
-More info on why it isn't currently being considered by Netgate:
+*Currently, this feature is not being considered by Netgate for addition into the pfSense package repo.*
+*More info on why it isn't currently being considered by Netgate:*
 
-Redmine:
-https://redmine.pfsense.org/issues/13821?issue_count=1&issue_position=1 [Rejected, Closed]
+*Redmine:*
+*https://redmine.pfsense.org/issues/13821?issue_count=1&issue_position=1 [Rejected, Closed]*
 
-PR:
-https://github.com/pfsense/FreeBSD-ports/pull/1211 [Rejected, Closed]
+*PR:*
+*https://github.com/pfsense/FreeBSD-ports/pull/1211 [Rejected, Closed]*
+
 
 ## Interface and Usage
 
