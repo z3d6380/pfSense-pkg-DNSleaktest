@@ -2,7 +2,9 @@
 A DNS Leaktest package I made for pfSense Project.
 
 ## Installation
-Currently, this feature is not being considered by Netgate for addition into the pfSense package repo, but I will provide installation instructions for those wishing to install from my repo.
+Download the `.pkg` file from the most recent release to your pfSense box via `scp`, then run the `pkg add {package-file-name}.pkg` command via `ssh`.
+
+Currently, this feature is not being considered by Netgate for addition into the pfSense package repo.
 
 More info on why it isn't currently being considered by Netgate:
 
