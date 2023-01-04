@@ -1,6 +1,11 @@
 # pfSense-pkg-DNSleaktest
 A DNS Leaktest package I made for pfSense Project.
 
+## Dependencies
+Make sure `jq` is installed. The pfSense package repo should have `jq`.
+
+Just run `which jq`, and if not installed, then run `pkg install jq`.
+
 ## Installation
 1. Download the `.pkg` file from the most recent <a href="https://github.com/z3d6380/pfSense-pkg-DNSleaktest/releases">release</a> to your pfSense box via `scp`
 2. Run the `pkg add pfSense-pkg-DNSleaktest-{x.x.x}.pkg` command via `ssh`.
@@ -36,7 +41,8 @@ A DNS Leaktest package I made for pfSense Project.
 
 ## Action Items:
 - [x] Interface and support for bash.ws dns leak testing
-- [ ] Validate/Sanitize/Escape User input
+- [x] Strip/Escape User Input in dnsleaktest.sh
+- [ ] Validate/Sanitize/Escape User Input from dnsleaktest.php
 - [ ] Add support for other DNS Leak Testing APIs (dnsleaktest.com, etc)
 
 ## Contributions:
