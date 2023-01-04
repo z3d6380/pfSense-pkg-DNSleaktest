@@ -1,5 +1,5 @@
 PORTNAME=		pfSense-pkg-DNSleaktest
-PORTVERSION=		0.1.0
+PORTVERSION=		0.1.1
 CATEGORIES=		sysutils
 MASTER_SITES=		# empty
 DISTFILES=		# empty
